@@ -1,0 +1,37 @@
+hat is locators? 
+Can you name direct locators is supported by selenium? 
+What is ID? 
+What is Class? 
+What is Tag
+What is attribute
+What is link text and partial link text? 
+Why should I use partial linktext?
+
+What is name? 
+If I have multiple direct locators,what will happen?
+
+What is Xpath? 
+What is Xpath operator? 
+What is xpath method? 
+What is double xpath?
+WebDriver driver;
+		
+Why should even I need to develop an xpath?
+What is absolute xpath
+Why do you not like absolute xpath?
+Star with single slash (/)
+What is relative xpath
+Start with double slash(//)
+//tagname [@attribute-'value']    //input [@id-'email]//*[@id="email"]
+What is node
+What is the formula to create a regular xpath? 
+How to handle dynamic locators in selenim? 
+What is contains()  in locators? 
+What is text() in locators? 
+What is xpathxes? 
+What is CSS? 
+Can you explain css formula? 
+How to handle dynamic element with CSS? 
+Can you explains start with, ends with, substring to find locators? 
+What is absolute xpath? 
+What is relative xpath? 

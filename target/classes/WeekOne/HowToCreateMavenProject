@@ -1,0 +1,52 @@
+
+step 1
+how to create Maven project
+
+
+Create a Maven project-- file-new-mavenproject-create simple project==put group ID and artifact ID then clicj finish
+
+how to update Java version;
+ <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+</properties>
+
+Find out what Java version in your machine
+--- open programe file from computer --- Java
+
+and make sure do not put higher version than your local java, you can put lower version
+
+then do maven update
+
+how to add dependencies tag
+
+add dependencies tag <dependencies>
+	
+</dependencies>
+
+and add necessary dependency in the middle
+
+
+How do we find dependencies
+go to maven repo and search https://mvnrepository.com/
+search selenium Java 
+select version
+and get the latest version
+serach WebDriverManager
+get the latest version
+search TestNG
+get the latest version
+do a maven update
+
+create a java class in src/main/java make sure java is working
+create a java class in src/test/java make sure TestNG is working
+
+craete a test case with Chrome and edge to test selenium
+
+WebDrivermanager will find out the version of web browser in local machine and will provide matching driver.exe file
+
+driver.exe files job is supply the source or test code
+browser job is display the supplied code properly
+
+Create a GithUb account 
+push this code in git hub
